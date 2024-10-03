@@ -1,0 +1,82 @@
+git -v for checking version
+git for checking syllabus
+
+
+1. git config --global user.name "Full name"       //Full name=Abhinav Raj  
+2. git config --global user.email 'xyz@gmail.com"   //ardevelop24@gmail.com
+3. git config --global core.editor 'code --wait"    //vs code 
+4. git config --core.autocrlf true                  //for windows
+5. git config --global -e                           //e means edit ,this is command for global configuration file.
+
+
+notes - DOT(.) before any file means it is hidden file.
+
+
+
+#local configuration karte hain
+1)extension install karte hain
+    *git graph
+    *git lens
+    *git blame
+    *git autoconfig    #responsible for local configuration
+    *github theme
+
+2)Git and Github Folder mein aate hain
+3)Come to terminal and run command "git init"
+
+
+
+
+
+
+
+
+
+#Git Command
+
+1) git init  //Used only once
+2)git add filename.extension (here filename.extension= dialog.txt)                  //Untracked Conversion to Track[Staged Changes]
+3)git commit -m "First Commit"            (-m is message and "First Commit" is the commited message)
+
+
+
+#Git Branches
+
+Master Branch is called Main Branches and Slave Branch is called feature branch(eg. feature/navbar  feature/footer)
+
+command 4)
+
+git branch -M main      [-M is used to rename the branch from Master to Main]
+
+
+
+*Head have information about the latest commit in the git
+
+
+
+#lets create a new Branch
+
+command 5-
+git branch feature/test  [feature/test is the name of new branch created]
+
+after above command 
+use this command
+[git switch feature/test]
+
+
+*for checking branch use command [git branch]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
