@@ -1,0 +1,16 @@
+git init
+
+
+git add filename.extension
+
+
+git commit -m commitedmsg
+
+
+git branch -M main
+
+
+git remote
+
+
+git push -u origin main

@@ -1,0 +1,13 @@
+git reset command
+
+1) git reset --mixed commitid      [Untracked] 
+2)git reset --soft commitid     [Staged Changed]
+3)git reset --hard commitid         [Permanently Delete]
+
+
+
+git reset (--mixed/--soft/--hard) head ~2            [It take two step down from the head file because we use 2]
+
+
+
+

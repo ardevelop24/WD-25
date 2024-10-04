@@ -1,0 +1,9 @@
+Merging all the branches together
+0
+a)Fast Forward Merging 
+b) 3 Way Merging
+c)Rebase
+
+
+
+3 way Merging

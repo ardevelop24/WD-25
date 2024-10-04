@@ -59,12 +59,55 @@ git branch -M main      [-M is used to rename the branch from Master to Main]
 command 5-
 git branch feature/test  [feature/test is the name of new branch created]
 
-after above command 
-use this command
-[git switch feature/test]
+
+git switch feature/test  [after above command 
+use this command to switch]
 
 
 *for checking branch use command [git branch]
+
+
+
+
+#chalo Branch Merging start karte hain
+
+Merging all the branches together
+
+a)Fast Forward Merging 
+b) 3 Way Merging
+c)Rebase
+
+*COMPANY WORK IN FAST FORWARD MERGING AND 3 WAY MERGING
+
+
+--Merging Process 
+
+step1 ) Go to main Branch
+     
+      git switch main
+
+step 2)  Merge
+  
+     git merge feature/test    [feature/test is branch name]
+
+
+
+#Branch delete karte hain
+
+ command 6)
+
+ git branch -d feature/test 
+
+
+
+
+ command 7)
+
+ git add.   [add all file]
+
+ 
+
+
 
 
 

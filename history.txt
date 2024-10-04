@@ -1,0 +1,9 @@
+Checkout -Take head from one commit to another
+
+command - git checkout commitid   [commitid of that Commit ]
+
+
+Take head back to main commit
+
+command - git checkout main
+
